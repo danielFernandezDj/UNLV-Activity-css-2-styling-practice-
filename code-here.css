@@ -1,21 +1,37 @@
 #classic {
-
+    font-weight: bold;
+    padding: 13px;
+    text-align: justify;
 }
 
 #modern {
-
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+    background-color: #fed602;
 }
 
 #impact {
-
+    background-color: #90ee8f;
+    border: 1em double black;
+    text-align: center;
+    padding: 1em;
+    font-weight: bold;
 }
 
 #elise {
-
+    background-color: #fffaf0;
+    border: 0.5em groove #f9ead7;
+    text-align: center;
+    padding: 1em;
 }
 
 #one, #two  {
-
+    padding: 1em;
+    margin: auto;
+    margin: 1em;
+    border: 0.3em solid rgb(73, 73, 73);
+    text-align: ;
 }
 
 #gaudi {
