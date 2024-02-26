@@ -26,17 +26,17 @@
     padding: 1em;
 }
 
-#one, #two  {
-    padding: 1em;
-    margin: auto;
-    margin: 1em;
-    border: 0.3em solid rgb(73, 73, 73);
-    text-align: ;
+#one, #two {
+    padding: 1em;       
+    /* margin: auto;
+    margin: 1em; */
+    /* border: 0.3em solid rgb(73, 73, 73); */
+    /* Code below */
 }
 
 #gaudi {
-
-}
+    
+}       
 
 
 
